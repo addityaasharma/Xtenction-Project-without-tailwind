@@ -1,0 +1,5 @@
+Dependencies for the react router dom, tailwind and json server in my project
+>>npm install axios react-router-dom tailwindcss json-server
+
+
+Run Json : npx json-server --watch db.json --port 5000
